@@ -21,22 +21,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 HEADERS += dail.h \
            mainwindow.h \
            zcx.h \
-           cmake-build-debug/qiniu_autogen/include/ui_mainwindow.h \
-           cmake-build-release/qiniu_autogen/include/ui_mainwindow.h \
-           /cmake-build-debug/qiniu_autogen/include/ui_mainwindow.h \
-           cmake-build-debug/qiniu_autogen/EWIEGA46WW/moc_mainwindow.cpp
 FORMS += mainwindow.ui
 SOURCES += dail.cpp \
            main.cpp \
            mainwindow.cpp \
            zcx.cpp \
-           cmake-build-debug/CMakeFiles/feature_tests.c \
-           cmake-build-debug/CMakeFiles/feature_tests.cxx \
-           cmake-build-debug/qiniu_autogen/mocs_compilation.cpp \
-           cmake-build-release/CMakeFiles/feature_tests.c \
-           cmake-build-release/CMakeFiles/feature_tests.cxx \
-           cmake-build-release/qiniu_autogen/mocs_compilation.cpp \
-           cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c \
-           cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp \
-           cmake-build-release/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c \
-           cmake-build-release/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp
